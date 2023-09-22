@@ -16,3 +16,4 @@ Python language
 
 7:After you try to place your answer you will get a new flag
 
+Note! In case you don't want to download the file, you can watch the uploaded video    -----flag_game.mp4
