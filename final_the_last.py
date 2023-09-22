@@ -209,7 +209,7 @@ def gamewindow():
 
             # if statement corect # The game window after login shows
 
-    if name_of_user and last_name_of_user is not None:
+     if name_of_user !="" and last_name_of_user !="":
         root.destroy()
         game_window_start()
 
